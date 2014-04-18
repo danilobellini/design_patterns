@@ -1,6 +1,9 @@
 Design Patterns em linguagens dinâmicas
 =======================================
 
+.. image:: https://travis-ci.org/danilobellini/design_patterns.svg?branch=master
+  :target: https://travis-ci.org/danilobellini/design_patterns
+
 Repositório com o código criado para as reuniões no `Garoa Hacker Clube`_
 do grupo que discute sobre `Design Patterns em linguagens dinâmicas`_. Este
 repositório atualmente enfatiza o Python enquanto linguagem dinâmica.
