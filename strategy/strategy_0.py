@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 from abc import ABCMeta, abstractmethod
 
 class Estratégia(metaclass=ABCMeta):

@@ -2,10 +2,15 @@ Design Patterns em linguagens dinâmicas
 =======================================
 
 Repositório com o código criado para as reuniões no `Garoa Hacker Clube`_
-sobre Design Patterns em linguagens dinâmicas, enfatizando o Python enquanto
-linguagem dinâmica.
+do grupo que discute sobre `Design Patterns em linguagens dinâmicas`_. Este
+repositório atualmente enfatiza o Python enquanto linguagem dinâmica.
 
 .. _`Garoa Hacker Clube`: https://garoa.net.br
+
+As reuniões do grupo são abertas, e todos são incentivados à participar.
+
+.. _`Design Patterns em linguagens dinâmicas`:
+  https://garoa.net.br/wiki/Design_patterns_em_linguagens_din%C3%A2micas
 
 
 Testes
@@ -29,4 +34,10 @@ Slides
 
 .. _`Strategy (Design Pattern) e seu uso com dicionário e
      Multiton`: http://pt.slideshare.net/djsbellini/20140416-garoa-hc-strategy
+
+
+----
+
+Conteúdo criado por Danilo J. S. Bellini, exceto quando explícito em
+contrário.
 

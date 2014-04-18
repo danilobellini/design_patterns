@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 
 op = {
   "+": lambda a, b: a + b,

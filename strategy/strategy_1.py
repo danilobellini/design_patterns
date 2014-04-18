@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 
 class Soma:
     def executar(self, a, b):

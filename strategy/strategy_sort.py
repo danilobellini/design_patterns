@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 from operator import itemgetter
 from audiolazy import StrategyDict
 
 sort = StrategyDict("sort")
 
-@sort.strategy("slow", "bad")
+@sort.strategy("slow", "bad") # Slow sorting by getting min value
 def sort(data):
   for idx, el in enumerate(data):
     idx_min, el_min = min(enumerate(data[idx:], idx), key=itemgetter(1))
     data[idx], data[idx_min] = el_min, el
 
-@sort.strategy("bubble")
+@sort.strategy("bubble") # Alone bubble sort
 def sort(data):
   idx = 1
   while idx < len(data):
@@ -20,7 +21,7 @@ def sort(data):
     else:
       idx += 1
 
-@sort.strategy("merge")
+@sort.strategy("merge") # Merge sort
 def sort(data):
   def recursive_merge(blk):
     size = len(blk)

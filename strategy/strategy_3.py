@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 
 from collections import namedtuple
 

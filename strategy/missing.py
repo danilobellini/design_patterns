@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# @author: Danilo J. S. Bellini
 
 class MeuDicionário(dict):
   def __missing__(self, chave):

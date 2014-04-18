@@ -1,3 +1,5 @@
+#!/usr/bin/env py.test
+# @author: Danilo J. S. Bellini
 import os, envoy, pytest, re, sys
 from tempfile import mktemp
 from operator import itemgetter

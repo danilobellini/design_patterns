@@ -1,3 +1,4 @@
+/* @author: Danilo J. S. Bellini */
 #include <stdio.h>
 
 typedef int (*BinaryOpPtr)(int, int);
