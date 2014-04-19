@@ -10,7 +10,7 @@ repositório atualmente enfatiza o Python enquanto linguagem dinâmica.
 
 .. _`Garoa Hacker Clube`: https://garoa.net.br
 
-As reuniões do grupo são abertas, e todos são incentivados à participar.
+As reuniões do grupo são abertas, e todos são incentivados a participar.
 
 .. _`Design Patterns em linguagens dinâmicas`:
   https://garoa.net.br/wiki/Design_patterns_em_linguagens_din%C3%A2micas
